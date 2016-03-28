@@ -1,9 +1,5 @@
-from siameseLSTM import *
-prefix='lstm'
-noise_std=0.
-training=False #Loads best saved model if False
-#model = word2vec.Word2Vec.load_word2vec_format("GoogleNews-vectors-negative300.bin.gz",binary=True)
-options=locals().copy()
+from SiameseLSTM import *
+
 newp=creatrnnx()
 for i in newp.keys():
     if i[0]=='1':
@@ -22,8 +18,8 @@ use_noise = theano.shared(numpy_floatX(0.))
 rate=0.5
 rrng=trng.binomial(emb11.shape,p=1-rate, n=1,dtype=emb11.dtype)
 
-proj11=getpl2(emb11,'1lstm1',mask11,False,rrng,50)[-1]
-proj21=getpl2(emb21,'2lstm1',mask21,False,rrng,50)[-1]
+proj11=getpl2(emb11,'1lstm1',mask11,False,rrng,50,tnewp)[-1]
+proj21=getpl2(emb21,'2lstm1',mask21,False,rrng,50,tnewp)[-1]
 dif=(proj21-proj11).norm(L=1,axis=1)
 s2=T.exp(-dif)
 sim=T.clip(s2,1e-7,1.0-1e-7)
@@ -52,4 +48,7 @@ if training==True:
                                        emb11,mask11,emb21,mask21,y, cost)
 
 
-
+train=pickle.load(open("stsallrmf.p","rb"))#[:-8]
+t2=train
+print "Pre-training"
+train_lstm(train,66)#46 DONE
