@@ -18,7 +18,7 @@ import theano.tensor as T
 def _p(pp, name):
     return '%s_%s' % (pp, name)
 import re
-
+from nltk.corpus import stopwords
 import scipy.stats as meas
 
 from gensim.models import word2vec
@@ -35,6 +35,7 @@ import theano
 from theano import config
 import theano.tensor as tensor
 from theano.sandbox.rng_mrg import MRG_RandomStreams as RandomStreams
+
 
 
 def numpy_floatX(data):
@@ -60,7 +61,6 @@ def get_layer(name):
     fns = layers[name]
     return fns
 
-
 # In[2]:
 
 def genm(mu,sigma,n1,n2):
@@ -84,7 +84,7 @@ def getlayerx(d,pref,n,nin):
 
 def creatrnnx():
     newp=OrderedDict()
-    print ("Creating neural network")
+    #print ("Creating neural network")
     newp=getlayerx(newp,'1lstm1',50,300)
     #newp=getlayerx(newp,'1lstm2',30,50)
     #newp=getlayerx(newp,'1lstm3',40,60)
@@ -104,41 +104,6 @@ def creatrnnx():
 
 # In[3]:
 
-def chkterr2(mydata):
-    count=[]
-    num=len(mydata)
-    px=[]
-    yx=[]
-    use_noise.set_value(0.)
-    for i in range(0,num,256):
-        q=[]
-        x=i+256
-        if x>num:
-            x=num
-        for j in range(i,x):
-            q.append(mydata[j])
-        x1,mas1,x2,mas2,y2=prepare_data(q)
-        ls=[]
-        ls2=[]
-        for j in range(0,len(q)):
-            ls.append(embed(x1[j]))
-            ls2.append(embed(x2[j]))
-        trconv=np.dstack(ls)
-        trconv2=np.dstack(ls2)
-        emb2=np.swapaxes(trconv2,1,2)
-        emb1=np.swapaxes(trconv,1,2)
-        pred=(f2sim(emb1,mas1,emb2,mas2))*4.0+1.0
-        #dm1=np.ones(mas1.shape,dtype=np.float32)
-        #dm2=np.ones(mas2.shape,dtype=np.float32)
-        #corr=f_cost(emb1,mas1,emb2,mas2,y2)
-        for z in range(0,len(q)):
-            yx.append(y2[z])
-            px.append(pred[z])
-        #count.append(corr)
-    px=np.array(px)
-    yx=np.array(yx)
-    #print "average error= "+str(np.mean(acc))
-    return np.mean(np.square(px-yx)),meas.pearsonr(px,yx)[0],meas.spearmanr(yx,px)[0]
 
 def dropout_layer(state_before, use_noise, rrng,rate):
     proj = tensor.switch(use_noise,
@@ -321,31 +286,39 @@ def getmtr(xa,maxlen):
 # In[4]:
 
 #new embed
+
 def embed(stmx):
     #stmx=stmx.split()
     dmtr=numpy.zeros((stmx.shape[0],300),dtype=np.float32)
     count=0
     while(count<len(stmx)):
-        
-        dmtr[count]=model[stmx[count]]
-        
-        count+=1        
-    return dmtr    
+        if stmx[count]==',':
+            count+=1
+            continue
+        if stmx[count] in dtr:
+            dmtr[count]=model[dtr[stmx[count]]]
+            count+=1
+        else:
+            dmtr[count]=model[stmx[count]]
+            count+=1
+    return dmtr
+
     
 
 
 # In[5]:
 
 def pfl(s):
-    for i in d2['syn']:
+    for i in dtr['syn'][0]:
         s.append(i)
     return s
 
-def chsyn(s):
+def chsyn(s,trn):
     cnt=0
+    global flg
     x2=s.split()
     x=[]
-    s=pfl(s)
+    
     for i in x2:
         x.append(i)
     for i in range(0,len(x)):
@@ -353,26 +326,30 @@ def chsyn(s):
         mst=''
         if q not in d2:
             continue
-        #if q in d and q not in cachedStopWords:
-        if q in cachedStopWords or q.title() in cachedStopWords:
+        if flg==1:
+            trn=pfl(trn)
+            flg=0
+        
+        if q in cachedStopWords or q.title() in cachedStopWords or q.lower() in cachedStopWords:
+            #print q,"skipped"
             continue
         if q in d2 or q.lower() in d2:
             if q in d2:
                 mst=findsim(q)
-                #print q,mst
+            #print q,mst
             elif q.lower() in d2:
                 mst=findsim(q)
             if q not in model:
                 mst=''
                 continue
-        
+
         if mst in model:
             if q==mst:
                 mst=''
                 
                 continue
             if model.similarity(q,mst)<0.6:
-                    continue
+                continue
             #print x[i],mst
             x[i]=mst
             if q.find('ing')!=-1:
@@ -387,18 +364,42 @@ def chsyn(s):
                     x[i]=x[i][:-1]+'ed'
             cnt+=1
             mst=''
-            
     return ' '.join(x),cnt
 
 def findsim(wd):
     syns=d2[wd]
-    x=random.randint(0,len(syns))
+    x=random.randint(0,len(syns)-1)
     return syns[x]
 
+def check(sa,sb,dat):
+    for i in dat:
+        if sa==i[0] and sb==i[1]:
+            return False
+        if sa==i[1] and sb==i[0]:
+            return False
+    return True
 
-#d2=pickle.load(open("synsem.p",'rb'))
-#dtr=pickle.load(open(""))
-model=pickle.load(open("Semevalembed.p","rb"))
+def expand(data):
+    n=[]
+    for m in range(0,10):
+        for i in data:
+            sa,cnt1=chsyn(i[0],data)
+            sb,cnt2=chsyn(i[1],data)
+            if cnt1>0 and cnt2>0:
+                l1=[sa,sb,i[2]]
+                n.append(l1)
+    print len(n)
+    for i in n:
+        if check(i[0],i[1],data):
+            data.append(i)
+    return data
+
+
+
+d2=pickle.load(open("synsem.p",'rb'))
+dtr=pickle.load(open("dwords.p",'rb'))
+#d2=dtr
+#model=pickle.load(open("Semevalembed.p","rb"))
 
 
 # In[7]:
@@ -407,76 +408,17 @@ model=pickle.load(open("Semevalembed.p","rb"))
 #from random import shuffle
 
 
-
 # In[9]:
-
-def train_lstm(train,max_epochs):
-    print "Training"
-    crer=[]
-    cr=1.6
-    freq=0
-    batchsize=32
-    dfreq=40#display frequency
-    valfreq=800# Validation frequency
-    lrate=0.0001
-    precision=2
-    for eidx in xrange(0,max_epochs):
-        sta=time.time()
-        num=len(train)
-        nd=eidx
-        sta=time.time()
-        print 'Epoch',eidx
-        rnd=sample(xrange(len(train)),len(train))
-        for i in range(0,num,batchsize):
-            q=[]
-            x=i+batchsize
-            if x>num:
-                x=num
-            for z in range(i,x):
-                q.append(train[rnd[z]])
-            #q=train[i:i+32]
-            #shuffle(q)
-            x1,mas1,x2,mas2,y2=prepare_data(q)
-            
-            ls=[]
-            ls2=[]
-            freq+=1
-            use_noise.set_value(1.)
-            for j in range(0,len(x1)):
-                ls.append(embed(x1[j]))
-                ls2.append(embed(x2[j]))
-            trconv=np.dstack(ls)
-            trconv2=np.dstack(ls2)
-            emb2=np.swapaxes(trconv2,1,2)
-            emb1=np.swapaxes(trconv,1,2)
-            cst=f_grad_shared(emb2, mas2, emb1,mas1,y2)
-            s=f_update(lrate)
-            ls=[]
-            ls2=[]
-            freq+=1
-            use_noise.set_value(1.)
-            
-            #s=f_update(lrate)
-            if np.mod(freq,dfreq)==0:
-                print 'Epoch ', eidx, 'Update ', freq, 'Cost ', cst   
-        sto=time.time()
-        err2.append([chkterr2(test),eidx])
-        print err2[-1]
-        if err2[-1][1]>0.62:
-            return
-        print "epoch took:",sto-sta
-
-
-
-
 
 prefix='lstm'
 noise_std=0.
 use_noise = theano.shared(numpy_floatX(0.))
-
-training=True #Loads best saved model if False
+flg=1
+cachedStopWords=stopwords.words("english")
+training=False #Loads best saved model if False
 Syn_aug=False # If true, performs better on Test dataset but longer training time
-#model = word2vec.Word2Vec.load_word2vec_format("GoogleNews-vectors-negative300.bin.gz",binary=True)
+print "Loading word2vec"
+model = word2vec.Word2Vec.load_word2vec_format("GoogleNews-vectors-negative300.bin.gz",binary=True)
 options=locals().copy()
 
 

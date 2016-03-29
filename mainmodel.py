@@ -1,5 +1,41 @@
 from SiameseLSTM import *
 
+def chkterr2(mydata):
+    count=[]
+    num=len(mydata)
+    px=[]
+    yx=[]
+    use_noise.set_value(0.)
+    for i in range(0,num,256):
+        q=[]
+        x=i+256
+        if x>num:
+            x=num
+        for j in range(i,x):
+            q.append(mydata[j])
+        x1,mas1,x2,mas2,y2=prepare_data(q)
+        ls=[]
+        ls2=[]
+        for j in range(0,len(q)):
+            ls.append(embed(x1[j]))
+            ls2.append(embed(x2[j]))
+        trconv=np.dstack(ls)
+        trconv2=np.dstack(ls2)
+        emb2=np.swapaxes(trconv2,1,2)
+        emb1=np.swapaxes(trconv,1,2)
+        pred=(f2sim(emb1,mas1,emb2,mas2))*4.0+1.0
+        #dm1=np.ones(mas1.shape,dtype=np.float32)
+        #dm2=np.ones(mas2.shape,dtype=np.float32)
+        #corr=f_cost(emb1,mas1,emb2,mas2,y2)
+        for z in range(0,len(q)):
+            yx.append(y2[z])
+            px.append(pred[z])
+    #count.append(corr)
+    px=np.array(px)
+    yx=np.array(yx)
+    #print "average error= "+str(np.mean(acc))
+    return np.mean(np.square(px-yx)),meas.pearsonr(px,yx)[0],meas.spearmanr(yx,px)[0]
+
 def train_lstm(train,max_epochs):
     print "Training"
     crer=[]
@@ -63,7 +99,7 @@ mask11 = tensor.matrix('mask11', dtype=config.floatX)
 mask21 = tensor.matrix('mask21', dtype=config.floatX)
 emb11=theano.tensor.ftensor3('emb11')
 emb21=theano.tensor.ftensor3('emb21')
-if training==True:
+if training==False:
     newp=pickle.load(open("bestsem.p",'rb'))
 tnewp=init_tparams(newp)
 trng = RandomStreams(1234)
@@ -84,7 +120,7 @@ ns=emb11.shape[1]
 f2sim=theano.function([emb11,mask11,emb21,mask21],sim,allow_input_downcast=True)
 f_cost=theano.function([emb11,mask11,emb21,mask21,y],cost,allow_input_downcast=True)
 if training==True:
-    print "Training is True"
+    
     gradi = tensor.grad(cost, wrt=tnewp.values())#/bts
     grads=[]
     l=len(gradi)
@@ -99,8 +135,35 @@ if training==True:
 
 
 train=pickle.load(open("stsallrmf.p","rb"))#[:-8]
-t2=train
-print "Pre-training"
-train_lstm(train,66)#46 DONE
+if training==True:
+    print "Pre-training"
+    train_lstm(train,66)
+    print "Pre-training done"
+    train=pickle.load(open("semtrain.p",'rb'))
+    if Syn_aug==True:
+        train=expand(train)
+        train_lstm(train,375)
+    else:
+        train_lstm(train,330)
+
 test=pickle.load(open("semtest.p",'rb'))
 print chkterr2(test)
+
+#Example
+q=[["A truly wise man","He is smart",0]]
+
+x1,mas1,x2,mas2,y2=prepare_data(q)
+ls=[]
+ls2=[]
+for j in range(0,len(q)):
+    ls.append(embed(x1[j]))
+    ls2.append(embed(x2[j]))
+trconv=np.dstack(ls)
+trconv2=np.dstack(ls2)
+emb2=np.swapaxes(trconv2,1,2)
+emb1=np.swapaxes(trconv,1,2)
+pred=(f2sim(emb1,mas1,emb2,mas2))*4.0+1.0
+print "Similarity of "
+print q[0][0],q[1][1]
+print "is" +str(pred[0])
+
