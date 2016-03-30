@@ -415,8 +415,8 @@ noise_std=0.
 use_noise = theano.shared(numpy_floatX(0.))
 flg=1
 cachedStopWords=stopwords.words("english")
-training=False #Loads best saved model if False
-Syn_aug=False # If true, performs better on Test dataset but longer training time
+training=True #Loads best saved model if False
+Syn_aug=True # If true, performs better on Test dataset but longer training time
 print "Loading word2vec"
 model = word2vec.Word2Vec.load_word2vec_format("GoogleNews-vectors-negative300.bin.gz",binary=True)
 options=locals().copy()
