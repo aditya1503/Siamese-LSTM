@@ -130,7 +130,7 @@ if training==True:
         grads.append(gravg)
     for i in range(0,len(tnewp.keys())/2):
         grads.append(grads[i])
-
+    
     f_grad_shared, f_update = adadelta(lr, tnewp, grads,emb11,mask11,emb21,mask21,y, cost)
 
 
@@ -164,6 +164,6 @@ emb2=np.swapaxes(trconv2,1,2)
 emb1=np.swapaxes(trconv,1,2)
 pred=(f2sim(emb1,mas1,emb2,mas2))*4.0+1.0
 print "Similarity of "
-print q[0][0],q[1][1]
-print "is" +str(pred[0])
+print q[0][0],q[0][1]
+print "on a scale of 1-5" +str(pred[0])
 
