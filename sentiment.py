@@ -107,7 +107,7 @@ ycr=ydat[c7:]
 
 clf = SVC(C=100,gamma=3.1,kernel='rbf')
 #xtr:training data
-#xc3:cross validation data
+#xcr:cross validation data
 
 # In[32]:
 
