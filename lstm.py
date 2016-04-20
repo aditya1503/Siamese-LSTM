@@ -282,6 +282,7 @@ class lstm():
         cost=T.mean((sim - ys) ** 2)
         ns=emb11.shape[1]
         self.f2sim=theano.function([emb11,mask11,emb21,mask21],sim,allow_input_downcast=True)
+        self.f_proj11=theano.function([emb11,mask11],proj11,allow_input_downcast=True)
         self.f_cost=theano.function([emb11,mask11,emb21,mask21,y],cost,allow_input_downcast=True)
         if training==True:
         
@@ -415,9 +416,6 @@ flg=1
 cachedStopWords=stopwords.words("english")
 training=False #Loads best saved model if False
 Syn_aug=True # If true, performs better on Test dataset but longer training time
-print "Loading word2vec"
-#model = word2vec.Word2Vec.load_word2vec_format("GoogleNews-vectors-negative300.bin.gz",binary=True)
-
 
 options=locals().copy()
 

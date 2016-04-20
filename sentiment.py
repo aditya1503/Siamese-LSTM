@@ -106,12 +106,14 @@ ycr=ydat[c7:]
 # In[31]:
 
 clf = SVC(C=100,gamma=3.1,kernel='rbf')
-
+#xtr:training data
+#xc3:cross validation data
 
 # In[32]:
 
 scl=clf.fit(xtr,ytr)
-print getacc(scl,xtr,ytr),getacc(scl,xcr,ycr)
+print "Training accuracy:",getacc(scl,xtr,ytr)
+print "Cross validation accuracy:",getacc(scl,xcr,ycr)
 
 
 # In[ ]:
