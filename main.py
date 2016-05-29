@@ -1,7 +1,8 @@
 from lstm import *
-training=True # Set to false to load weights
-Syn_aug=True # it False faster but does slightly worse on Test dataset
-sls=lstm(training)
+#training=True # Set to false to load weights
+#Syn_aug=True # it False faster but does slightly worse on Test dataset
+
+sls=lstm("bestsem.p",load=True,training=False)
 
 train=pickle.load(open("stsallrmf.p","rb"))#[:-8]
 if training==True:

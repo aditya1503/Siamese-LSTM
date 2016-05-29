@@ -253,7 +253,7 @@ def rmsprop(lr, tparams, grads, emb11,mask11,emb21,mask21,y, cost):
 
 
 class lstm():    
-    def __init__(self,training):
+    def __init__(self,nam,load=False,training=False):
         newp=creatrnnx()
         for i in newp.keys():
             if i[0]=='1':
@@ -263,8 +263,8 @@ class lstm():
         mask21 = tensor.matrix('mask21', dtype=config.floatX)
         emb11=theano.tensor.ftensor3('emb11')
         emb21=theano.tensor.ftensor3('emb21')
-        if training==False:
-            newp=pickle.load(open("bestsem.p",'rb'))
+        if load==True:
+            newp=pickle.load(open(nam,'rb'))
         tnewp=init_tparams(newp)
         trng = RandomStreams(1234)
         use_noise = theano.shared(numpy_floatX(0.))
