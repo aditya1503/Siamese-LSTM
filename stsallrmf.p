@@ -64313,4 +64313,3004 @@ p32156
 aS'a man wearing a white suit holding a newspaper walking through the streets'
 p32157
 aF1.8
+aa(lp32158
+S'a baby rhino is following an adult rhino'
+p32159
+aS'a rhino, which is a youngling, is walking around a pen with its mother'
+p32160
+aF4.8
+aa(lp32161
+S'a toddler is playing with a plastic scooter toy'
+p32162
+aS'a woman in blue has a yellow ball in the mitt'
+p32163
+aF1.0
+aa(lp32164
+S'someone is typing on a keyboard'
+p32165
+aS'someone is typing'
+p32166
+aF4.4
+aa(lp32167
+S'somebody is typing on the keyboard'
+p32168
+aS'someone is typing'
+p32169
+aF4.4
+aa(lp32170
+S'the man is using a sledgehammer to break a concrete block that is on another man'
+p32171
+aS'a man is breaking a block of concrete with a sledge hammer'
+p32172
+aF4.5
+aa(lp32173
+S'a tiger cub is playing with a ball'
+p32174
+aS'a baby tiger is playing with a ball'
+p32175
+aF4.9
+aa(lp32176
+S'the man is exercising'
+p32177
+aS'a man is doing exercises'
+p32178
+aF4.9
+aa(lp32179
+S'a cat is looking at a store counter'
+p32180
+aS'a dog is looking around'
+p32181
+aF1.1
+aa(lp32182
+S'a man is sitting on the grass and drinking from a water bottle'
+p32183
+aS'the child is delightedly playing with toys outdoors'
+p32184
+aF1.1
+aa(lp32185
+S'a boy next to some buckets of rags is holding something'
+p32186
+aS'a boy next to some buckets of rags is holding an object'
+p32187
+aF4.8
+aa(lp32188
+S'a man in a white hat is playing guitar on stage'
+p32189
+aS'a man in a white hat is getting off stage'
+p32190
+aF3.9
+aa(lp32191
+S'a woman wearing a blue shirt and high heels is standing on the sidewalk next to a man'
+p32192
+aS'a woman wearing a blue shirt and high heels is standing on the sidewalk next to a dog'
+p32193
+aF4.1
+aa(lp32194
+S'a man is pointing at a silver sedan'
+p32195
+aS'there is no man pointing at a car'
+p32196
+aF4.1
+aa(lp32197
+S'a child is splashing in a pool for children and no other children are playing in the background'
+p32198
+aS'a child is splashing in a pool for children and other children are playing in the background'
+p32199
+aF2.6
+aa(lp32200
+S'a man in a white hat is getting off stage'
+p32201
+aS'four people are performing music outdoors'
+p32202
+aF1.5
+aa(lp32203
+S'this group of people is practicing water safety and wearing preservers'
+p32204
+aS'preservers are being worn by a group of people who are practicing water safety'
+p32205
+aF4.9
+aa(lp32206
+S'a man is playing the guitar loudly'
+p32207
+aS'the adult is playing the guitar loudly'
+p32208
+aF4.8
+aa(lp32209
+S'a man is doing pull-ups'
+p32210
+aS'the man is exercising'
+p32211
+aF4.6
+aa(lp32212
+S'a little girl is smiling and running outside'
+p32213
+aS'the surfer is riding a small wave'
+p32214
+aF1.0
+aa(lp32215
+S'the black dog is climbing on a rock'
+p32216
+aS'a rock is being climbed by the black dog'
+p32217
+aF4.9
+aa(lp32218
+S'a woman is showing a dog with very short hair at a dog show'
+p32219
+aS'a woman is showing a dog with very long hair at a dog show'
+p32220
+aF3.1
+aa(lp32221
+S'the man is doing exercises in a gym'
+p32222
+aS'the man is exercising'
+p32223
+aF4.4
+aa(lp32224
+S'a basketball player is on the court floor and the ball is being grabbed by another one'
+p32225
+aS'two basketball players are scrambling for the ball on the court'
+p32226
+aF4.7
+aa(lp32227
+S'a girl is looking on surprised from a front window in a house in asia.'
+p32228
+aS'a girl from asia, in front of a brick window, looks surprised'
+p32229
+aF4.6
+aa(lp32230
+S'two people are arguing near a crowd'
+p32231
+aS'a woman is being kissed by a man'
+p32232
+aF1.1
+aa(lp32233
+S'a man is pushing the buttons of a microwave'
+p32234
+aS'a man is being pushed toward the buttons of a microwave'
+p32235
+aF2.8
+aa(lp32236
+S'a man is breaking tiles with his hands'
+p32237
+aS'tiles are being broken with his hands by a man'
+p32238
+aF4.9
+aa(lp32239
+S'a man is spitting on the ground'
+p32240
+aS'a man is spitting'
+p32241
+aF4.7
+aa(lp32242
+S'a tower is being looked at by a blonde lady'
+p32243
+aS'a blonde lady is looking at a tower'
+p32244
+aF5.0
+aa(lp32245
+S'the windows are being cleaned by a man'
+p32246
+aS'the man has a window of time to clean himself'
+p32247
+aF1.75
+aa(lp32248
+S'two groups of people are playing football'
+p32249
+aS'two teams are competing in a football match'
+p32250
+aF4.7
+aa(lp32251
+S'a white dog is standing on the leaves on the ground'
+p32252
+aS'a dog, which is white, is standing on fallen leaves'
+p32253
+aF4.8
+aa(lp32254
+S'a dog is opening a can of food'
+p32255
+aS'a dog is closing a can of food'
+p32256
+aF3.0
+aa(lp32257
+S'a dead bird is near a black man sitting on a tree'
+p32258
+aS'a black bird is sitting on a dead tree'
+p32259
+aF2.1
+aa(lp32260
+S'the man is using a sledgehammer to break a concrete block that is on another man'
+p32261
+aS'a man is breaking a slab of concrete with a sledge hammer'
+p32262
+aF4.5
+aa(lp32263
+S'a cheetah is chasing its prey across a field'
+p32264
+aS'a white and brown dog is walking through the water with difficulty'
+p32265
+aF1.1
+aa(lp32266
+S'a man is petting a dog near a stone path'
+p32267
+aS'a woman is playing with a brown dog on a garden path'
+p32268
+aF1.9
+aa(lp32269
+S'the man is riding a horse'
+p32270
+aS'a horse is riding over a man'
+p32271
+aF2.9
+aa(lp32272
+S'a group of people are standing around a sound mixing table'
+p32273
+aS'a group of people are standing around a sound mixing console'
+p32274
+aF4.7
+aa(lp32275
+S'a person is doing a trick on a snowboard'
+p32276
+aS'a snowboarder is grinding down a long rail'
+p32277
+aF4.0
+aa(lp32278
+S'two teams are competing in a football match'
+p32279
+aS'football is being played by two competing teams'
+p32280
+aF4.8
+aa(lp32281
+S'a black and brown dog is eyeing a fly'
+p32282
+aS'a black and brown dog is eyeing an insect'
+p32283
+aF4.5
+aa(lp32284
+S'a woman is pouring eggs into a frying pan'
+p32285
+aS'a woman is pouring eggs into a pan'
+p32286
+aF4.8
+aa(lp32287
+S'a boy is playing a game with wooden blocks'
+p32288
+aS'some cheerleaders are dancing'
+p32289
+aF1.0
+aa(lp32290
+S'there is no young child dressed for cold weather standing outside'
+p32291
+aS'a smiling boy in winter clothes is waving his mittened hands outside a building in the snow'
+p32292
+aF2.4
+aa(lp32293
+S'a dog is catching a black frisbee'
+p32294
+aS'a large wet yellow cat is retrieving a toy'
+p32295
+aF1.6
+aa(lp32296
+S'the military officer is shouting at the recruits'
+p32297
+aS'the military officer is barking at the recruits'
+p32298
+aF4.8
+aa(lp32299
+S'a person has blonde and flyaway hair and is playing a guitar'
+p32300
+aS'a guitarist has blonde and flyaway hair'
+p32301
+aF4.7
+aa(lp32302
+S'a man is pouring cleaner into the sink'
+p32303
+aS'a man is cleaning the sink'
+p32304
+aF4.7
+aa(lp32305
+S'a man is doing exercise'
+p32306
+aS'a man is exercising'
+p32307
+aF4.8
+aa(lp32308
+S'a man is pointing at a silver sedan'
+p32309
+aS'a man is pointing at a car'
+p32310
+aF4.4
+aa(lp32311
+S'a person is scrubbing a zucchini'
+p32312
+aS'the woman is cutting cooked octopus'
+p32313
+aF1.185
+aa(lp32314
+S'some women are dancing and singing '
+p32315
+aS'a woman is dancing and singing with other women'
+p32316
+aF4.8
+aa(lp32317
+S'the man is using a sledgehammer to break a concrete block that is on another person'
+p32318
+aS'a man is breaking a slab of concrete with a sledge hammer'
+p32319
+aF4.4
+aa(lp32320
+S'a person is dancing'
+p32321
+aS'a man is thinking'
+p32322
+aF1.1
+aa(lp32323
+S'there is no clown singing'
+p32324
+aS'a clown is singing and people are dancing'
+p32325
+aF4.3
+aa(lp32326
+S'a man is wiping the edge of a bowl'
+p32327
+aS'a man is cleaning the edge of a bowl'
+p32328
+aF4.9
+aa(lp32329
+S'several children are standing up'
+p32330
+aS'two girls are sitting on the ground'
+p32331
+aF1.8
+aa(lp32332
+S'a woman in a red dress is playing an instrument'
+p32333
+aS'an instrument is being played by a woman in a red dress'
+p32334
+aF4.9
+aa(lp32335
+S'some people are treading through the snow of the landscape which is beautiful and snowy'
+p32336
+aS'some people are treading through the snow of the beautiful snowy landscape'
+p32337
+aF5.0
+aa(lp32338
+S'an airplane is taking off'
+p32339
+aS'a plane is landing'
+p32340
+aF4.4
+aa(lp32341
+S'a person is doing a trick on a snowboard'
+p32342
+aS'a snowboarder is grinding down a long concrete rail'
+p32343
+aF3.8
+aa(lp32344
+S'a small girl is riding in a toy car'
+p32345
+aS'a small toy girl is in a riding car'
+p32346
+aF2.7
+aa(lp32347
+S'a man is in a parking lot and is playing tennis against a large wall'
+p32348
+aS'the snowboarder is leaping fearlessly over white snow'
+p32349
+aF1.0
+aa(lp32350
+S'a black dog and a white dog are wrestling on the ground'
+p32351
+aS'two dogs are fighting'
+p32352
+aF4.2
+aa(lp32353
+S'a person is wearing a hat and is sitting on the grass'
+p32354
+aS'a man is running in a field'
+p32355
+aF1.4
+aa(lp32356
+S'a man is talking on the radio'
+p32357
+aS'a man is talking'
+p32358
+aF4.5
+aa(lp32359
+S'a horse is riding over a man'
+p32360
+aS'a man is riding a horse'
+p32361
+aF3.0
+aa(lp32362
+S'a tree is being picked up by a man'
+p32363
+aS'a man is carrying a tree'
+p32364
+aF4.65
+aa(lp32365
+S'a man is making music with a flute'
+p32366
+aS'a man is playing flute'
+p32367
+aF4.8
+aa(lp32368
+S'a man is dancing'
+p32369
+aS'a man is performing a dance'
+p32370
+aF4.8
+aa(lp32371
+S'a woman is dancing and singing in the rain'
+p32372
+aS'a woman is performing in the rain'
+p32373
+aF4.4
+aa(lp32374
+S'there is no man holding a frog'
+p32375
+aS'a man is holding a frog'
+p32376
+aF2.1
+aa(lp32377
+S'a laughing child is holding a water gun and getting sprayed with water'
+p32378
+aS'a child is holding a squirt gun'
+p32379
+aF4.5
+aa(lp32380
+S'the pepper is being sliced by a woman with a knife'
+p32381
+aS'a woman is slicing a green pepper'
+p32382
+aF4.9
+aa(lp32383
+S'two teenage girls are wearing fancy dresses at an event'
+p32384
+aS'a woman in a white dress and a woman in a blue dress are standing beside a stage'
+p32385
+aF3.65
+aa(lp32386
+S'a man is shaking a drink'
+p32387
+aS'a man is mixing'
+p32388
+aF3.8
+aa(lp32389
+S'a man is resting'
+p32390
+aS'a man is exercising'
+p32391
+aF3.7
+aa(lp32392
+S'a cat is eagerly eating corn on the cob'
+p32393
+aS'a cat is eating some corn'
+p32394
+aF4.7
+aa(lp32395
+S'a small child is showing excitement on a swing set at the park'
+p32396
+aS'the little girl is not swinging and the woman is not standing behind her'
+p32397
+aF3.6
+aa(lp32398
+S'a rabbit is playing with a toy rabbit'
+p32399
+aS'a rabbit is playing with a toy'
+p32400
+aF4.5
+aa(lp32401
+S'a rhino, which is a youngling, is walking around a pen with its mother'
+p32402
+aS'a baby rhino is walking around a pen with its mother'
+p32403
+aF4.8
+aa(lp32404
+S'the man is doing a magic trick'
+p32405
+aS'some dangerous men with knives are throwing a bike against a tree'
+p32406
+aF1.5
+aa(lp32407
+S'two small boys dressed in tuxedos are sitting on a red carpeted floor'
+p32408
+aS'two little kids are wearing tuxedos'
+p32409
+aF4.5
+aa(lp32410
+S'the man is slicing bread'
+p32411
+aS'bread is being sliced by the man'
+p32412
+aF4.9
+aa(lp32413
+S'broccoli are being cut by a woman'
+p32414
+aS'a man is cutting tomatoes'
+p32415
+aF1.365
+aa(lp32416
+S'a piece of wood is being screwed to a wall by a man'
+p32417
+aS'a man is screwing a piece of wood to a wall'
+p32418
+aF5.0
+aa(lp32419
+S'a man is sitting on the lawn and drinking from a water bottle'
+p32420
+aS'the women are dancing outside'
+p32421
+aF1.0
+aa(lp32422
+S'a man is petting two dogs'
+p32423
+aS'two dogs are being petted by a man'
+p32424
+aF4.9
+aa(lp32425
+S'a girl is on a jumping car'
+p32426
+aS'one girl is jumping on the car'
+p32427
+aF3.2
+aa(lp32428
+S'a dog is swimming after a tennis ball'
+p32429
+aS'an animal is barking at a ball'
+p32430
+aF2.1
+aa(lp32431
+S'a man is exercising'
+p32432
+aS'a man is doing physical activity'
+p32433
+aF4.5
+aa(lp32434
+S'a man is putting down an electronic device'
+p32435
+aS'the man is taking a picture of himself and another guy'
+p32436
+aF1.9
+aa(lp32437
+S'a white man is walking next to a building in a big city'
+p32438
+aS'a man is looking into the distance and people is walking between buildings behind'
+p32439
+aF2.4
+aa(lp32440
+S'a cat is walking away from some corn'
+p32441
+aS'a cat is eating corn on the cob'
+p32442
+aF3.8
+aa(lp32443
+S'a young boy covered in grass is jumping near a wooden fence'
+p32444
+aS'a young boy covered in grass is jumping near a fence made of wood'
+p32445
+aF4.9
+aa(lp32446
+S'two men are holding fishing poles'
+p32447
+aS'two men are holding some water standing near fishing poles'
+p32448
+aF2.6
+aa(lp32449
+S'a soda is being opened and drunk by a woman'
+p32450
+aS'a woman is opening a soda and drinking it'
+p32451
+aF4.8
+aa(lp32452
+S'a small girl is riding in a toy car'
+p32453
+aS'there is no child sitting in a red and yellow toy car'
+p32454
+aF3.9
+aa(lp32455
+S'a man and two women in a darkened room are sitting at a table with candles'
+p32456
+aS'the group of people is sitting in a room which is dim'
+p32457
+aF4.5
+aa(lp32458
+S'some people playing rugby are tackling each other'
+p32459
+aS'rugby players are tackling each other'
+p32460
+aF4.8
+aa(lp32461
+S'a hamster is singing'
+p32462
+aS'a small animal is singing'
+p32463
+aF4.4
+aa(lp32464
+S'a lady is surfing and riding a wave'
+p32465
+aS'a woman is surfing'
+p32466
+aF4.6
+aa(lp32467
+S'a man is riding a horse'
+p32468
+aS'a man is driving a vehicle'
+p32469
+aF3.5
+aa(lp32470
+S'the woman is slicing garlic'
+p32471
+aS'a woman is chopping broccoli'
+p32472
+aF2.9
+aa(lp32473
+S'a woman is slicing a carrot'
+p32474
+aS'a carrot is being sliced by a woman'
+p32475
+aF5.0
+aa(lp32476
+S'mud is covering a topless woman'
+p32477
+aS'a topless woman is being covered in mud'
+p32478
+aF5.0
+aa(lp32479
+S'someone is boiling okra in a pot'
+p32480
+aS'someone is being boiled with okra in a pot'
+p32481
+aF2.7
+aa(lp32482
+S'a cat is eating corn on the cob'
+p32483
+aS'the cat is eating some corn'
+p32484
+aF4.6
+aa(lp32485
+S'a man is petting two cats'
+p32486
+aS'a man is petting two dogs'
+p32487
+aF2.6
+aa(lp32488
+S'someone is on a black and white motorcycle and is standing on the seat'
+p32489
+aS'no motorcycle rider is standing up on the seat of a motorcycle'
+p32490
+aF3.6
+aa(lp32491
+S'four middle eastern children, three girls and one boy, are climbing on the grotto with a pink interior'
+p32492
+aS'the grotto with a pink interior is being climbed by four middle eastern children, three girls and one boy'
+p32493
+aF4.9
+aa(lp32494
+S'the boy in the blue coverall is painting'
+p32495
+aS"the lady is holding the paintbrush next to the artist's easel "
+p32496
+aF1.5
+aa(lp32497
+S'the man is slicing vegetables'
+p32498
+aS'vegetables are being sliced by a man'
+p32499
+aF4.9
+aa(lp32500
+S'two girl with dogs are walking on a forest path'
+p32501
+aS'two dogs and two people are walking in the woods'
+p32502
+aF4.3
+aa(lp32503
+S'a woman is chopping broccoli'
+p32504
+aS'the woman is chopping garlic'
+p32505
+aF2.8
+aa(lp32506
+S'a small dog is lying on a bed'
+p32507
+aS'a small dog is lying under the bed'
+p32508
+aF3.1
+aa(lp32509
+S'a man is catching a fish'
+p32510
+aS'a woman is deboning a fish'
+p32511
+aF3.4
+aa(lp32512
+S'a man is playing a trumpet'
+p32513
+aS'a man is putting a trumpet away'
+p32514
+aF4.1
+aa(lp32515
+S'there is no man playing with a skull'
+p32516
+aS'the man is playing with a skull'
+p32517
+aF2.3
+aa(lp32518
+S'a woman is riding on an elephant'
+p32519
+aS'an elephant is being ridden by a woman'
+p32520
+aF4.9
+aa(lp32521
+S'a man is holding a sign and is seeking money'
+p32522
+aS'a man is seeking a sign and is holding some money'
+p32523
+aF3.0
+aa(lp32524
+S'a cow is eating hay'
+p32525
+aS'a cow is grazing'
+p32526
+aF4.2
+aa(lp32527
+S'a man is firing a shotgun'
+p32528
+aS'a man is firing a gun'
+p32529
+aF4.7
+aa(lp32530
+S'the black dog is not walking along a tree trunk bridge over water'
+p32531
+aS'a dog is crossing a river on a bridge made from a fallen tree'
+p32532
+aF2.6
+aa(lp32533
+S'there is no panda bear eating some bamboo'
+p32534
+aS'the panda is eating bamboo'
+p32535
+aF4.3
+aa(lp32536
+S'carrots are being sliced by a woman'
+p32537
+aS'a woman is cutting potatoes'
+p32538
+aF2.1
+aa(lp32539
+S'a cow is eating grass'
+p32540
+aS'a cow is grazing'
+p32541
+aF4.5
+aa(lp32542
+S'the woman is picking up a baby kangaroo'
+p32543
+aS'the woman is picking up the kangaroo'
+p32544
+aF4.8
+aa(lp32545
+S'a man doing exercises is being floored'
+p32546
+aS'a man is doing exercises'
+p32547
+aF4.1
+aa(lp32548
+S'a large brown dog is jumping over a red hurdle'
+p32549
+aS'a young man is running away from the fishing line'
+p32550
+aF1.0
+aa(lp32551
+S'five children are standing in front of a wooden hut'
+p32552
+aS'five children are standing in front of a hut made of wood'
+p32553
+aF4.8
+aa(lp32554
+S'a child is holding a squirt gun'
+p32555
+aS'there is no child holding a water gun or getting sprayed with water'
+p32556
+aF4.085
+aa(lp32557
+S'a veteran is showing different things from a war to some people'
+p32558
+aS'different things from a war are being shown to some people by a veteran'
+p32559
+aF4.9
+aa(lp32560
+S'two children are crouching under some bars made of metal'
+p32561
+aS'two children are crouching under some metal bars'
+p32562
+aF5.0
+aa(lp32563
+S'a rider is on a black and white bike and is standing on the seat'
+p32564
+aS'a motorcycle rider is standing up on the seat of a white motorcycle'
+p32565
+aF3.6
+aa(lp32566
+S'a horse and its rider are not leaping over a barrier'
+p32567
+aS'a horse is leaping a hurdle and has a rider on its back'
+p32568
+aF4.6
+aa(lp32569
+S'a man is talking to a woman'
+p32570
+aS'a man and a woman are speaking'
+p32571
+aF4.8
+aa(lp32572
+S'a skunk is being held by a person'
+p32573
+aS'a person is holding a skunk'
+p32574
+aF5.0
+aa(lp32575
+S'dirt bikers are riding on a trail'
+p32576
+aS'bikers are riding on a trail'
+p32577
+aF4.4
+aa(lp32578
+S'two teammates are lifting a football player in a red and white uniform'
+p32579
+aS'a football player in a red and white uniform is being lifted by two teammates'
+p32580
+aF4.9
+aa(lp32581
+S'the elephant is being ridden by the woman'
+p32582
+aS'the woman is riding the elephant'
+p32583
+aF4.8
+aa(lp32584
+S'a band is playing onstage'
+p32585
+aS'there is no band playing'
+p32586
+aF4.1
+aa(lp32587
+S'the elephant is being ridden by the woman'
+p32588
+aS'the elephant is being ridden over a woman'
+p32589
+aF3.015
+aa(lp32590
+S'a man is riding a horse'
+p32591
+aS'the person is riding the animal'
+p32592
+aF4.4
+aa(lp32593
+S'a cat is playing with a small bottle'
+p32594
+aS'the dog is licking a bottle'
+p32595
+aF1.8
+aa(lp32596
+S'a magician is cutting a girl into two pieces like butter'
+p32597
+aS'tofu is being sliced by a woman'
+p32598
+aF1.3
+aa(lp32599
+S'a girl in a strange outfit is riding the bike'
+p32600
+aS'the bike is being ridden by a girl in a strange outfit'
+p32601
+aF5.0
+aa(lp32602
+S'a man is firing a shotgun'
+p32603
+aS'a man is shooting a weapon'
+p32604
+aF4.9
+aa(lp32605
+S'a child is making a snow ball'
+p32606
+aS'a snow ball is being made by a child'
+p32607
+aF5.0
+aa(lp32608
+S'a young man in a white shirt and gold and black hat is sitting with crossed legs'
+p32609
+aS'there is no girl playing the violin on a beach'
+p32610
+aF1.1
+aa(lp32611
+S'a golden retriever is running'
+p32612
+aS'a dog is running'
+p32613
+aF4.4
+aa(lp32614
+S'a dog is herding a pack of white sheep on a dusty farm'
+p32615
+aS'a sheepdog is dispersing a herd of sheep'
+p32616
+aF4.4
+aa(lp32617
+S'a tiger cub is roaring'
+p32618
+aS'a tiger cub is making a sound'
+p32619
+aF4.3
+aa(lp32620
+S'a man in a hat is playing a harp'
+p32621
+aS'a man is playing an instrument'
+p32622
+aF4.3
+aa(lp32623
+S'there is no snowboarder grinding down a long concrete rail'
+p32624
+aS'a person is doing a trick on a snowboard'
+p32625
+aF3.3
+aa(lp32626
+S'a black dog is leaping from a hay ball to another hay ball'
+p32627
+aS'a black dog is leaping from a cylindrical hay bale'
+p32628
+aF4.1
+aa(lp32629
+S'a married couple is walking down the aisle'
+p32630
+aS'a couple who have just got married are walking down the isle'
+p32631
+aF4.8
+aa(lp32632
+S'a baby rhino is walking around a pen with its mother'
+p32633
+aS'a mother is giving the baby a pen with a walking rhino on it'
+p32634
+aF2.1
+aa(lp32635
+S'a man is playing a guitar under a windows'
+p32636
+aS'a man is playing a guitar'
+p32637
+aF4.5
+aa(lp32638
+S'a woman is cooking a breaded pork chop'
+p32639
+aS'the woman is frying a chop of breaded pork'
+p32640
+aF4.735
+aa(lp32641
+S'a person is jotting something with a pencil'
+p32642
+aS'the person is writing with a pencil'
+p32643
+aF4.9
+aa(lp32644
+S'a man and woman are talking'
+p32645
+aS'a man and a woman are having a conversation'
+p32646
+aF4.8
+aa(lp32647
+S'two small boys dressed in tuxedos are sitting on a red carpeted floor'
+p32648
+aS'two little boys are wearing tuxedos'
+p32649
+aF4.4
+aa(lp32650
+S'a girl is cutting butter into two pieces'
+p32651
+aS'a magician is cutting a girl into two pieces like butter'
+p32652
+aF2.2
+aa(lp32653
+S'the person is riding the horse'
+p32654
+aS'the person is riding the animal'
+p32655
+aF4.6
+aa(lp32656
+S'a girl is melting two pieces of butter together'
+p32657
+aS'tofu is being sliced by a woman'
+p32658
+aF1.435
+aa(lp32659
+S'the woman is frying a chop of breaded pork'
+p32660
+aS'the woman is frying a breaded pork chop'
+p32661
+aF4.7
+aa(lp32662
+S'someone is on a black and white motorcycle and is standing on the seat'
+p32663
+aS'a motorcycle rider is standing up on the seat of a white motorcycle'
+p32664
+aF3.7
+aa(lp32665
+S'a man is getting into a car in a garage'
+p32666
+aS'a man is getting into an automobile'
+p32667
+aF4.2
+aa(lp32668
+S'nobody is on a motorcycle and is standing on the seat'
+p32669
+aS'a motorcycle rider is standing up on the seat of a white motorcycle'
+p32670
+aF3.6
+aa(lp32671
+S'a man is picking up a tree'
+p32672
+aS'a man is carrying a tree'
+p32673
+aF4.3
+aa(lp32674
+S'a squirrel is running around in circles'
+p32675
+aS'an animal is running around in circles'
+p32676
+aF4.6
+aa(lp32677
+S'a man is cutting a paper'
+p32678
+aS'a man is cutting himself with a piece of paper'
+p32679
+aF2.8
+aa(lp32680
+S'a dog is biting a can'
+p32681
+aS'a can is being bitten by a dog'
+p32682
+aF5.0
+aa(lp32683
+S'there is no parrot speaking'
+p32684
+aS'a yellow dog is running on white snow on a sunny day'
+p32685
+aF1.0
+aa(lp32686
+S'two pandas are lying together'
+p32687
+aS'two baby pandas are sleeping'
+p32688
+aF3.8
+aa(lp32689
+S'the oriental lady is cutting a carrot into thin pieces'
+p32690
+aS'a woman is slicing a carrot'
+p32691
+aF4.4
+aa(lp32692
+S'a basketball player is on the court floor and another one is grabbing the ball'
+p32693
+aS'two basketball players are scrambling for the ball on the court'
+p32694
+aF4.3
+aa(lp32695
+S'the dancer is dancing in front of the sound equipment'
+p32696
+aS'the blond girl is dancing in front of the sound equipment'
+p32697
+aF4.4
+aa(lp32698
+S'a person is walking in the snow at the edge of a mountain'
+p32699
+aS'a man is standing at dusk on an almost pristine, snowy road, that is lit only by headlights'
+p32700
+aF2.4
+aa(lp32701
+S'a woman is eating a cupcake'
+p32702
+aS'a man is slicing a potato'
+p32703
+aF1.3
+aa(lp32704
+S'the young boy in the blue shirt is jumping into the water'
+p32705
+aS'a young girl is jumping into a still lake'
+p32706
+aF2.2
+aa(lp32707
+S'a woman is cooking a pork chop which is breaded'
+p32708
+aS'a woman is cooking a breaded pork chop'
+p32709
+aF4.8
+aa(lp32710
+S'the patient is helping the doctor'
+p32711
+aS'the doctors are reviving a man'
+p32712
+aF1.8
+aa(lp32713
+S'there is no boy in a swimsuit sitting on top of a circular fountain'
+p32714
+aS'a boy is standing next to the opening of a fountain'
+p32715
+aF2.8
+aa(lp32716
+S'a boy is holding a squirt gun'
+p32717
+aS'a laughing child is holding a water gun and getting sprayed with water'
+p32718
+aF4.0
+aa(lp32719
+S'a boy is wearing an orange shirt and a striped tie'
+p32720
+aS'a girl in an orange shirt and clown makeup is standing in a park and others are looking on'
+p32721
+aF1.6
+aa(lp32722
+S'a horse is running'
+p32723
+aS'dogs are racing on a track'
+p32724
+aF1.4
+aa(lp32725
+S'the woman is poking a potato'
+p32726
+aS'the woman is not poking holes in the potato'
+p32727
+aF2.4
+aa(lp32728
+S'a man is not playing a guitar'
+p32729
+aS'a man is playing a keyboard'
+p32730
+aF3.735
+aa(lp32731
+S'the man is training'
+p32732
+aS'two men are fighting'
+p32733
+aF1.7
+aa(lp32734
+S'a fearful little boy is on a climbing wall'
+p32735
+aS'the man is sitting next to a birdcage'
+p32736
+aF1.1
+aa(lp32737
+S'a boy, who is young, is playing a wind instrument'
+p32738
+aS'a kid is playing an instrument'
+p32739
+aF4.7
+aa(lp32740
+S'a machine is sharpening a pencil'
+p32741
+aS'the machine is shaving the end of a pencil'
+p32742
+aF5.0
+aa(lp32743
+S'a dog is teasing a monkey at the zoo'
+p32744
+aS'a monkey is teasing a dog at the zoo'
+p32745
+aF3.5
+aa(lp32746
+S'a brown puppy is biting a pole'
+p32747
+aS'the man and woman are not walking'
+p32748
+aF1.0
+aa(lp32749
+S'a man is pushing a helmet towards another one on a black bicycle'
+p32750
+aS'a biker is wearing gear which is black'
+p32751
+aF2.4
+aa(lp32752
+S'a person is jotting something with a pencil'
+p32753
+aS'a person is writing'
+p32754
+aF4.6
+aa(lp32755
+S'a black dog is jumping from n hay ball to another hay ball'
+p32756
+aS'a black dog is jumping from a cylindrical hay bale'
+p32757
+aF4.2
+aa(lp32758
+S'a small tree is being eaten by a baby elephant'
+p32759
+aS'a baby elephant is eating a small tree'
+p32760
+aF4.7
+aa(lp32761
+S'a boy is playing a game with wooden blocks'
+p32762
+aS'a boy is playing a game with blocks made of wood'
+p32763
+aF4.8
+aa(lp32764
+S'a red hurdle is being jumped by a large brown dog'
+p32765
+aS'a brown and white dog is jumping over a red, yellow and white hurdle'
+p32766
+aF4.2
+aa(lp32767
+S'a boy is speeding down a steep slide'
+p32768
+aS'a girl is wearing all black and is sliding down a blow up yellow slide'
+p32769
+aF2.0
+aa(lp32770
+S'a black dog and a small white and black dog are looking up at a kitchen countertop'
+p32771
+aS'two dogs are looking up at a kitchen countertop'
+p32772
+aF4.6
+aa(lp32773
+S'a blue ball is being caught by the dog'
+p32774
+aS'the dog is catching a blue ball'
+p32775
+aF4.9
+aa(lp32776
+S'the boy is playing the piano'
+p32777
+aS'the boy is playing a musical instrument'
+p32778
+aF4.6
+aa(lp32779
+S'two children and an adult are standing next to a tree limb'
+p32780
+aS'three people are standing next to a tree limb'
+p32781
+aF4.6
+aa(lp32782
+S'a man is riding a horse'
+p32783
+aS'a man is riding an animal'
+p32784
+aF4.4
+aa(lp32785
+S'a man and a woman are sitting comfortably on the bench'
+p32786
+aS'two large persons are sitting on a park bench and they have a bottle of soda between them'
+p32787
+aF3.9
+aa(lp32788
+S'nobody is sitting comfortably on the bench'
+p32789
+aS'two large persons are sitting on a park bench and they have a bottle of soda between them'
+p32790
+aF3.6
+aa(lp32791
+S'a man is riding a mechanical bull'
+p32792
+aS'a middle eastern man is standing against a lamp post near to other people'
+p32793
+aF1.1
+aa(lp32794
+S'the doctor is not helping the patient'
+p32795
+aS'a lady is wearing a black dress and is carrying a white cross'
+p32796
+aF1.0
+aa(lp32797
+S'a yellow dog is drinking water from the faucet'
+p32798
+aS' water from the faucet is being drunk by a yellow dog'
+p32799
+aF4.9
+aa(lp32800
+S'a girl in a black hat is standing topless at the beach'
+p32801
+aS'a young lady in a bikini is lying on the beach'
+p32802
+aF3.0
+aa(lp32803
+S'the patient is being helped by the doctor'
+p32804
+aS'the doctor is helping the patient'
+p32805
+aF4.9
+aa(lp32806
+S'a man is fixing a silencer to a gun'
+p32807
+aS'a man is fitting a silencer to a weapon'
+p32808
+aF4.8
+aa(lp32809
+S'the girl in the red shirt is blowing a bubble '
+p32810
+aS"the girl in a dyed red shirt isn't blowing a bubble"
+p32811
+aF2.4
+aa(lp32812
+S'a carrot is being sliced by a woman'
+p32813
+aS'a woman is slicing a carrot'
+p32814
+aF4.8
+aa(lp32815
+S'a woman is dancing gracefully'
+p32816
+aS'a woman is dancing'
+p32817
+aF4.6
+aa(lp32818
+S'the man in a grey t-shirt is sitting on a rock in front of the waterfall'
+p32819
+aS'somebody is sitting at the waterfall and looking at a woman'
+p32820
+aF3.5
+aa(lp32821
+S'one man is doing a wheelie on the mountain bike'
+p32822
+aS'a man on a bicycle is riding on one wheel only'
+p32823
+aF4.7
+aa(lp32824
+S'a couple of white dogs are running and jumping along a beach'
+p32825
+aS'two white dogs are running and jumping along a beach'
+p32826
+aF4.9
+aa(lp32827
+S'two women are dancing'
+p32828
+aS'there is no policewoman singing at karaoke'
+p32829
+aF1.0
+aa(lp32830
+S'a woman in a purple top is walking a bicycle between two stone columns'
+p32831
+aS'a stone woman and bicycle are on top of two purple columns, between which people are walking'
+p32832
+aF2.3
+aa(lp32833
+S'someone is stirring chili in a kettle'
+p32834
+aS'a pot of chili is being stirred by someone with a spoon'
+p32835
+aF4.4
+aa(lp32836
+S'a man is performing a trick on a green bicycle'
+p32837
+aS'there is no man performing a trick on a green bicycle'
+p32838
+aF4.8
+aa(lp32839
+S'a girl is messing up her hair'
+p32840
+aS'a girl is filing her nails'
+p32841
+aF1.7
+aa(lp32842
+S'a person is sitting'
+p32843
+aS'a man is dancing'
+p32844
+aF1.5
+aa(lp32845
+S'a person is exercising'
+p32846
+aS'a man is dancing'
+p32847
+aF3.385
+aa(lp32848
+S'a bunny is playing with a stuffed bunny'
+p32849
+aS'a rabbit is playing with a toy'
+p32850
+aF4.5
+aa(lp32851
+S'the man is putting away the bread'
+p32852
+aS'the woman is slicing herbs'
+p32853
+aF1.2
+aa(lp32854
+S'a group of explorers are walking through the grass'
+p32855
+aS'some people are walking'
+p32856
+aF4.1
+aa(lp32857
+S'the man is eating'
+p32858
+aS'a man is eating some food'
+p32859
+aF4.7
+aa(lp32860
+S'a person is kicking a monkey'
+p32861
+aS'a monkey is kicking a person'
+p32862
+aF3.0
+aa(lp32863
+S'a black dog and a tan dog are fighting'
+p32864
+aS'two dogs are fighting'
+p32865
+aF4.5
+aa(lp32866
+S'a soccer player is sitting on the field and is drinking water'
+p32867
+aS'water is being drunk by a soccer player sitting on the field'
+p32868
+aF4.8
+aa(lp32869
+S'there is no man cutting a box'
+p32870
+aS'a homeless man is holding up a sign and is begging for money'
+p32871
+aF1.1
+aa(lp32872
+S'a white dog is standing on the leaves on the ground'
+p32873
+aS'a white dog is standing on fallen leaves'
+p32874
+aF4.7
+aa(lp32875
+S"the man isn't lifting weights"
+p32876
+aS'the man is lifting barbells'
+p32877
+aF4.2
+aa(lp32878
+S'a squirrel is spinning around in circles'
+p32879
+aS'an animal is running around in circles'
+p32880
+aF4.1
+aa(lp32881
+S'there is no rabbit playing with a toy rabbit'
+p32882
+aS'a bunny is playing with a stuffed bunny'
+p32883
+aF4.0
+aa(lp32884
+S'a woman is wearing an indian headdress'
+p32885
+aS'the woman is wearing glasses and a black headdress'
+p32886
+aF3.0
+aa(lp32887
+S'a child is sitting in a red and yellow toy car'
+p32888
+aS'the small girl is riding in the toy car'
+p32889
+aF4.2
+aa(lp32890
+S'there is no man playing soccer'
+p32891
+aS'a man is playing soccer'
+p32892
+aF4.8
+aa(lp32893
+S'a man is having fun with water'
+p32894
+aS'a man is playing with water'
+p32895
+aF4.5
+aa(lp32896
+S'a boy is saying a word'
+p32897
+aS'a boy is saying something'
+p32898
+aF4.6
+aa(lp32899
+S'a woman is slicing a tomato'
+p32900
+aS'a woman is refrigerating a potato'
+p32901
+aF2.5
+aa(lp32902
+S'a cat is eating corn on the cob'
+p32903
+aS'a cat is eating some corn'
+p32904
+aF4.4
+aa(lp32905
+S'a couple of policewomen are singing'
+p32906
+aS'two women are dancing'
+p32907
+aF1.7
+aa(lp32908
+S'the men are having a conversation'
+p32909
+aS'the men are talking'
+p32910
+aF4.6
+aa(lp32911
+S'there is no person with a blue backpack hiking in rocky area'
+p32912
+aS'the person is hiking'
+p32913
+aF3.8
+aa(lp32914
+S'a baby rhino is following an adult rhino'
+p32915
+aS'a rhino, which is little, is following an adult rhino'
+p32916
+aF4.5
+aa(lp32917
+S'the parrot is amazingly talking into the microphone'
+p32918
+aS'a parrot is speaking'
+p32919
+aF4.4
+aa(lp32920
+S'a white and brown dog is walking through the water with difficulty'
+p32921
+aS'there is no white and brown dog pacing with through the water difficulty'
+p32922
+aF2.6
+aa(lp32923
+S'a man is drawing some figures'
+p32924
+aS'a man is strolling in the rain'
+p32925
+aF1.3
+aa(lp32926
+S'masked people are looking in the same direction in a forest'
+p32927
+aS'a little girl is looking at a woman in costume'
+p32928
+aF1.3
+aa(lp32929
+S'a woman is squeezing juice out of a lemon'
+p32930
+aS'a lemon is being squeezed by a woman'
+p32931
+aF4.6
+aa(lp32932
+S'a woman is riding a horse'
+p32933
+aS'an animal is being ridden by a woman'
+p32934
+aF4.5
+aa(lp32935
+S'a woman is slicing meat with a knife'
+p32936
+aS'there is no woman slicing meat with a knife'
+p32937
+aF4.6
+aa(lp32938
+S'a rock is being climbed by a person with a rope, which is pink'
+p32939
+aS'two people in a race are flipping the tires of a tractor'
+p32940
+aF1.1
+aa(lp32941
+S'a person is reading the email'
+p32942
+aS'a person with a green shirt is jumping high over the grass'
+p32943
+aF1.1
+aa(lp32944
+S'the panda bear is not lying on the logs'
+p32945
+aS'a cute panda is lying down'
+p32946
+aF4.3
+aa(lp32947
+S'a man is talking'
+p32948
+aS'a man is speaking'
+p32949
+aF4.9
+aa(lp32950
+S'two men are holding bikes and standing on the side of a road covered of snow'
+p32951
+aS'two men with bikes are on the side of a snowy road'
+p32952
+aF4.7
+aa(lp32953
+S'a baby is playing with a doll'
+p32954
+aS'there is no baby tiger playing with a ball'
+p32955
+aF3.1
+aa(lp32956
+S'a man is walking in the rain'
+p32957
+aS'a man and a woman are sitting'
+p32958
+aF2.0
+aa(lp32959
+S'two men with bikes are on the side of a snowy road'
+p32960
+aS'two men are breaking into a car during a trip on a snowy road'
+p32961
+aF2.2
+aa(lp32962
+S'a large brown dog is jumping over a red hurdle'
+p32963
+aS'a red hurdle is being jumped by a large brown dog'
+p32964
+aF4.9
+aa(lp32965
+S'rugby is being played by some men'
+p32966
+aS'some men are playing rugby'
+p32967
+aF5.0
+aa(lp32968
+S'a person is kicking a soccer ball between their feet'
+p32969
+aS'one brown and black dog is running through the leaves'
+p32970
+aF1.0
+aa(lp32971
+S'a dog is running downhill'
+p32972
+aS'a dog is running up a grassy hill'
+p32973
+aF3.0
+aa(lp32974
+S'a man is playing a violin'
+p32975
+aS'a man is harping on about a play'
+p32976
+aF1.5
+aa(lp32977
+S'a boy is wearing all black and is sliding down a blow up yellow slide'
+p32978
+aS'a girl is speeding down a steep slide'
+p32979
+aF2.0
+aa(lp32980
+S'a woman is cooking an egg in a skillet'
+p32981
+aS'a woman is preparing an egg in a skillet'
+p32982
+aF4.7
+aa(lp32983
+S'the horse is being ridden by a man'
+p32984
+aS'a man is riding the animal'
+p32985
+aF4.4
+aa(lp32986
+S'a black dog and a yellow dog are playing with each other'
+p32987
+aS'two dogs are playing with each other'
+p32988
+aF4.7
+aa(lp32989
+S'an instrument is being played by a woman in a red dress'
+p32990
+aS'a man is climbing up a rope'
+p32991
+aF1.1
+aa(lp32992
+S'a man is thinking'
+p32993
+aS'a person is sitting'
+p32994
+aF2.1
+aa(lp32995
+S'a woman is wearing an egyptian headdress'
+p32996
+aS'the woman with a black hat is wearing sunglasses'
+p32997
+aF2.3
+aa(lp32998
+S'there is no man playing the piano'
+p32999
+aS'a man is playing a wooden flute'
+p33000
+aF3.7
+aa(lp33001
+S'a child with dark hair is going down a slide and throwing up his arms'
+p33002
+aS'a young girl with a heart tank top is raising her hands as she is sliding'
+p33003
+aF3.9
+aa(lp33004
+S'the sheepdog is grouping a herd of sheep'
+p33005
+aS'a dog is herding a pack of white sheep on a dusty farm'
+p33006
+aF4.2
+aa(lp33007
+S'a young boy is playing in the park with his mother'
+p33008
+aS'there is no young boy playing in the park with his mother'
+p33009
+aF2.6
+aa(lp33010
+S'the animal with big eyes is sleeping'
+p33011
+aS'the animal with big eyes is eating'
+p33012
+aF3.2
+aa(lp33013
+S'a woman is slicing a potato'
+p33014
+aS'vegetables are being sliced by a man'
+p33015
+aF2.3
+aa(lp33016
+S'a yellow cat is chasing a ball'
+p33017
+aS'a dog is turning on the grass and pursuing a flying ball'
+p33018
+aF2.0
+aa(lp33019
+S'a black man is break dancing on the pavement'
+p33020
+aS'the dark skinned male is standing on one hand in front of a yellow building'
+p33021
+aF3.9
+aa(lp33022
+S'a boy is filling a pitcher with water'
+p33023
+aS'a woman is emptying the water from a mug'
+p33024
+aF1.8
+aa(lp33025
+S'the bunch of men are playing rugby on a muddy field'
+p33026
+aS'the bunch of men are playing rugby on a field full of mud'
+p33027
+aF4.8
+aa(lp33028
+S'three people are driving four wheel atvs in a field'
+p33029
+aS'three people are driving four wheel vehicles in a field'
+p33030
+aF4.5
+aa(lp33031
+S'the boy and the girl are playing and wearing arm floats'
+p33032
+aS'a boy and a girl are naked'
+p33033
+aF1.9
+aa(lp33034
+S'the ice hockey goalkeeper is not wearing a yellow jersey and is not defending the goal'
+p33035
+aS'a hockey player in a yellow jersey is guarding the goal'
+p33036
+aF4.1
+aa(lp33037
+S'a few men are playing cricket'
+p33038
+aS'people are not playing cricket'
+p33039
+aF4.2
+aa(lp33040
+S'a girl is combing her hair'
+p33041
+aS'a girl is styling her hair'
+p33042
+aF4.6
+aa(lp33043
+S'the chef is carefully pouring some oil into a pan'
+p33044
+aS'some liquid is being poured into a pan by a man'
+p33045
+aF4.4
+aa(lp33046
+S'a man is putting garlic on some slices of bread'
+p33047
+aS'a man is putting garlic on some bread slices'
+p33048
+aF5.0
+aa(lp33049
+S'a group of people are looking at sound equipment'
+p33050
+aS'a group of people are standing around a sound mixing console'
+p33051
+aF4.0
+aa(lp33052
+S'an old woman is shaking hands with a man'
+p33053
+aS'two persons are shaking hands'
+p33054
+aF4.6
+aa(lp33055
+S'a chef is cleaning a bowl of soup'
+p33056
+aS'a man is cleaning the edge of a bowl'
+p33057
+aF3.5
+aa(lp33058
+S'a woman is amalgamating eggs'
+p33059
+aS'the woman is eating'
+p33060
+aF1.8
+aa(lp33061
+S'someone is scratching the belly of an animal'
+p33062
+aS'there is no woman stroking a lemur'
+p33063
+aF1.9
+aa(lp33064
+S'two men are walking through the grass'
+p33065
+aS'two men are standing in deep water'
+p33066
+aF2.4
+aa(lp33067
+S'three children are running down a grassy hillside'
+p33068
+aS'three kids are running down hill'
+p33069
+aF4.8
+aa(lp33070
+S'a squirrel is running in circles'
+p33071
+aS'an animal is running in circles'
+p33072
+aF4.4
+aa(lp33073
+S'a woman in blue has a yellow ball in the mitt'
+p33074
+aS'the man in blue is chasing the base runner with a number on the jersey'
+p33075
+aF1.7
+aa(lp33076
+S'a panda bear is eating some bamboo'
+p33077
+aS'the panda is eating bamboo'
+p33078
+aF4.9
+aa(lp33079
+S'a person is not frying'
+p33080
+aS'a person is frying some food'
+p33081
+aF4.0
+aa(lp33082
+S'a cat is stuck on a ceiling fan that is moving'
+p33083
+aS'a cat is stuck on a moving ceiling fan'
+p33084
+aF5.0
+aa(lp33085
+S'a large crowd in warm clothing is posing for a camera'
+p33086
+aS'a crowd is posing for a large camera man in heavy clothing'
+p33087
+aF4.3
+aa(lp33088
+S'a man is fitting a silencer to a pistol'
+p33089
+aS'a man is fixing a silencer to a gun'
+p33090
+aF4.7
+aa(lp33091
+S'a woman on a rock is lying on a blanket and reading a book'
+p33092
+aS'a woman on a rock is standing and looking around'
+p33093
+aF3.565
+aa(lp33094
+S'the man is doing a wheelie on a mountain bike'
+p33095
+aS'a person on a bike is riding on one wheel only'
+p33096
+aF4.5
+aa(lp33097
+S'a man is pouring oil into a pan'
+p33098
+aS'oil is being poured into a skillet by a man'
+p33099
+aF5.0
+aa(lp33100
+S'a cluster of four brown dogs are playing in a field of brown grass'
+p33101
+aS'there is no dog playing in a field of brown grass'
+p33102
+aF2.1
+aa(lp33103
+S'two men are doing a funny skit with a boxer in front of a crowd of people'
+p33104
+aS'two men with a dog are boring a crowd of people'
+p33105
+aF3.3
+aa(lp33106
+S'a young woman is carrying a lot of colorful scarves on the beach'
+p33107
+aS'a rainbow afghan is being held by a girl in gold and purple'
+p33108
+aF3.0
+aa(lp33109
+S'a white horse is standing'
+p33110
+aS'a horse is standing'
+p33111
+aF4.5
+aa(lp33112
+S'a girl is filing her nails'
+p33113
+aS'a girl is doing a manicure'
+p33114
+aF4.2
+aa(lp33115
+S'there is no brown duck with a green head flapping its wings in the water'
+p33116
+aS'a bird is flapping its wings on the water'
+p33117
+aF2.6
+aa(lp33118
+S'a boy is standing in the water'
+p33119
+aS'the boy is sitting near the blue ocean'
+p33120
+aF2.8
+aa(lp33121
+S'a girl is cutting butter into two pieces'
+p33122
+aS'some sliced tofu is being eaten by a woman'
+p33123
+aF1.5
+aa(lp33124
+S'a man is being roped before a climb'
+p33125
+aS'a panda is climbing'
+p33126
+aF1.0
+aa(lp33127
+S'a little girl is looking at a woman in costume'
+p33128
+aS'a little girl in costume looks like a woman'
+p33129
+aF2.9
+aa(lp33130
+S'a woman is sitting and looking at the waterfall'
+p33131
+aS'somebody is sitting at the waterfall and looking at a woman'
+p33132
+aF3.1
+aa(lp33133
+S'the band is singing loudly'
+p33134
+aS'the band is singing '
+p33135
+aF4.6
+aa(lp33136
+S'a man is doing pull-ups'
+p33137
+aS'a man is doing exercises'
+p33138
+aF4.4
+aa(lp33139
+S'a dog is in the sand that is blowing in the air'
+p33140
+aS'a dog is in the sand that is blowing in the wind'
+p33141
+aF4.8
+aa(lp33142
+S'three children are running down hill'
+p33143
+aS'three children are running up hill'
+p33144
+aF3.3
+aa(lp33145
+S'some people are standing'
+p33146
+aS'a group of scouts are hiking through the grass'
+p33147
+aF1.8
+aa(lp33148
+S'a boy is spanking a man with a plastic sword'
+p33149
+aS'a man is spanking a boy with a plastic sword'
+p33150
+aF3.6
+aa(lp33151
+S'a man is skiing down a hill and over a red obstacle'
+p33152
+aS'a man is snowboarding down a railing in the snow'
+p33153
+aF2.2
+aa(lp33154
+S'a baby is laughing'
+p33155
+aS'a man is resting'
+p33156
+aF1.1
+aa(lp33157
+S'a little boy with brown hair is jumping off of a brown chair onto the floor'
+p33158
+aS'a young boy is quickly jumping off a chair'
+p33159
+aF4.1
+aa(lp33160
+S'a white car is being driven by the man'
+p33161
+aS"a man's white car is being driven away"
+p33162
+aF4.2
+aa(lp33163
+S'a girl in pink is twirling a ribbon'
+p33164
+aS'a ribbon is being twirled by a girl in pink'
+p33165
+aF4.8
+aa(lp33166
+S'the oriental lady is cutting a carrot into thin pieces'
+p33167
+aS'the oriental lady is cutting a carrot into pieces that are thin'
+p33168
+aF5.0
+aa(lp33169
+S'the dog is on a leash and is walking in the water'
+p33170
+aS'the dog is on a leash and is walking out of the water'
+p33171
+aF3.55
+aa(lp33172
+S'a man is getting into a car in a garage'
+p33173
+aS'a man is getting a garage for the car'
+p33174
+aF3.0
+aa(lp33175
+S'a yellow dog is running down a sandy path'
+p33176
+aS'a yellow dog is running down a path covered by sand'
+p33177
+aF4.7
+aa(lp33178
+S'there is no child holding a squirt gun'
+p33179
+aS'a laughing child is holding a water gun and getting sprayed with water'
+p33180
+aF3.6
+aa(lp33181
+S'there is no man singing to a woman'
+p33182
+aS'a man is talking on the phone'
+p33183
+aF1.9
+aa(lp33184
+S'the girl is not wearing a white shirt and a pink skirt, and is not standing in front of a house'
+p33185
+aS'the girl is wearing a white shirt and a pink skirt, and is standing in front of a house'
+p33186
+aF4.2
+aa(lp33187
+S'a man is mowing a lawn'
+p33188
+aS'a man is not mowing a lawn'
+p33189
+aF4.4
+aa(lp33190
+S'the person on the motorcycle is holding up an arm'
+p33191
+aS'a man on a motorcycle is riding on a track and waving'
+p33192
+aF3.9
+aa(lp33193
+S'five adults are sitting on stone steps'
+p33194
+aS'five adults are sitting on a chair'
+p33195
+aF3.5
+aa(lp33196
+S'the men are climbing a mountain'
+p33197
+aS'one climber is holding a rock and another man is roping a wall'
+p33198
+aF3.7
+aa(lp33199
+S'a dog is eating a doll'
+p33200
+aS'a kid is playing with a toy dog'
+p33201
+aF1.9
+aa(lp33202
+S'a shirtless woman is jumping over a log'
+p33203
+aS'a guy is leaping into the air in a wooded area'
+p33204
+aF1.935
+aa(lp33205
+S'a clown is singing and people are dancing'
+p33206
+aS'a clown is singing'
+p33207
+aF4.4
+aa(lp33208
+S'two boys on a couch are playing video games'
+p33209
+aS'a couple of boys are playing a video game'
+p33210
+aF4.4
+aa(lp33211
+S'a playing device is amusing a cat'
+p33212
+aS'the boy is playing in the mud'
+p33213
+aF1.0
+aa(lp33214
+S'a plane is taking off'
+p33215
+aS'a plane is landing'
+p33216
+aF3.8
+aa(lp33217
+S'the parrot is talking into the microphone'
+p33218
+aS'a parrot is speaking'
+p33219
+aF4.4
+aa(lp33220
+S'there is no man playing flute'
+p33221
+aS'a man is playing soccer'
+p33222
+aF1.1
+aa(lp33223
+S"a lemur is biting a person's finger"
+p33224
+aS"an animal is biting somebody's hand"
+p33225
+aF4.4
+aa(lp33226
+S'a sad man is crying'
+p33227
+aS'a man is crying'
+p33228
+aF4.4
+aa(lp33229
+S'a young couple is lying in bed'
+p33230
+aS'a young couple is lying on a bed together'
+p33231
+aF4.7
+aa(lp33232
+S'a woman is cutting some meat into pieces'
+p33233
+aS'a lady is cutting up some meat'
+p33234
+aF4.9
+aa(lp33235
+S'the woman is picking up a baby kangaroo'
+p33236
+aS'the lady is picking up the kangaroo'
+p33237
+aF4.5
+aa(lp33238
+S'the person is riding a jetski in the waves'
+p33239
+aS'a woman is riding a seadoo'
+p33240
+aF4.3
+aa(lp33241
+S'a man is pushing the buttons of a microwave'
+p33242
+aS'the buttons of a microwave are being pushed by a man'
+p33243
+aF4.8
+aa(lp33244
+S'a white horse is being ridden by a man in a blue cowboy hat'
+p33245
+aS'a man in a blue cowboy hat is riding a white horse'
+p33246
+aF4.7
+aa(lp33247
+S'the black bird is sitting in a leafless tree'
+p33248
+aS'a bird, which is black, is sitting on a dead tree'
+p33249
+aF4.3
+aa(lp33250
+S'a group of people is gathering at a stand at the fair'
+p33251
+aS'no group of people is gathering at a stand at the fair'
+p33252
+aF4.6
+aa(lp33253
+S'a boy is sitting in a seat'
+p33254
+aS'a toddler is standing up'
+p33255
+aF2.1
+aa(lp33256
+S'a small dog is lying on the bed'
+p33257
+aS'a small dog is lying under the bed'
+p33258
+aF3.5
+aa(lp33259
+S'a dog is chasing a ball in the grass'
+p33260
+aS'a dog with a ball is being chased in the grass'
+p33261
+aF3.1
+aa(lp33262
+S'a woman is playing the violin'
+p33263
+aS'the violin is being played by a woman'
+p33264
+aF4.9
+aa(lp33265
+S'a man in a red uniform is swiftly making a jump in a dirt bike race'
+p33266
+aS'a man is participating in a bmx race'
+p33267
+aF4.1
+aa(lp33268
+S'a couple who have just got married are walking down the isle'
+p33269
+aS'the bride and the groom are leaving after the wedding'
+p33270
+aF4.1
+aa(lp33271
+S"the riders are fencing in a boy's metal bike"
+p33272
+aS'a biker is riding along the top of a fence'
+p33273
+aF2.2
+aa(lp33274
+S'a girl in a uniform is playing the flute with a marching band'
+p33275
+aS'a girl in a uniform is not playing the flute with a marching band'
+p33276
+aF2.8
+aa(lp33277
+S'the machine is shaving the end of a pencil'
+p33278
+aS'a pencil is being shaved by the machine'
+p33279
+aF4.7
+aa(lp33280
+S'several people are in front of a building which is covered by colors'
+p33281
+aS'several people are in front of a colorful building'
+p33282
+aF4.7
+aa(lp33283
+S'some bamboo is being eaten by a panda bear'
+p33284
+aS'the panda is eating bamboo'
+p33285
+aF4.9
+aa(lp33286
+S'a woman is dancing alone'
+p33287
+aS'a few women are holding each other and dancing together'
+p33288
+aF3.5
+aa(lp33289
+S'people are singing and a clown is dancing'
+p33290
+aS'a clown is singing and people are dancing'
+p33291
+aF3.4
+aa(lp33292
+S'a woman is bowling two eggs to a break dancer '
+p33293
+aS'a baby is playing with a doll'
+p33294
+aF1.0
+aa(lp33295
+S'a middle eastern man is standing with the back against a lamp post near to other people'
+p33296
+aS'a woman is leaning against a pole and is surrounded by people'
+p33297
+aF2.2
+aa(lp33298
+S'a woman with a ponytail is climbing a wall of rock'
+p33299
+aS'a man with climbing equipment is hanging from a rock, which is vertical and white'
+p33300
+aF3.1
+aa(lp33301
+S'two women are dancing and singing in front of a crowd'
+p33302
+aS'the persons are singing and dancing'
+p33303
+aF4.4
+aa(lp33304
+S'some people are singing'
+p33305
+aS'some people are silent'
+p33306
+aF3.9
+aa(lp33307
+S'there is no woman being kissed by a man'
+p33308
+aS'two people are kissing near a crowd'
+p33309
+aF3.1
+aa(lp33310
+S'a sheepdog is grouping a herd of sheep'
+p33311
+aS'a dog is herding a pack of white sheep on a dusty farm'
+p33312
+aF4.1
+aa(lp33313
+S'a bride with a white veil is looking down'
+p33314
+aS'a woman is looking down and is wearing a wedding veil'
+p33315
+aF4.3
+aa(lp33316
+S'four people are floating on a raft'
+p33317
+aS'people are not riding and paddling a raft'
+p33318
+aF4.4
+aa(lp33319
+S'a boy is standing in a room by a lamp light'
+p33320
+aS'a small group of people are standing and two are sitting on the couch'
+p33321
+aF2.2
+aa(lp33322
+S'a crowd of people is far from the water'
+p33323
+aS'a group of children in uniforms is standing at a gate and one is kissing the mother'
+p33324
+aF1.0
+aa(lp33325
+S'a container is being shaken over a sink in the kitchen by a man'
+p33326
+aS'a man is shaking a container over a sink in the kitchen'
+p33327
+aF4.9
+aa(lp33328
+S'a man is jumping onto a wall which is low'
+p33329
+aS'a man is jumping onto a low wall'
+p33330
+aF4.8
+aa(lp33331
+S"milk is a kitten's drink"
+p33332
+aS'a kitten is drinking fresh milk'
+p33333
+aF4.0
+aa(lp33334
+S'a little boy with brown hair is jumping off of a brown chair onto the floor'
+p33335
+aS'a young boy is jumping off a chair'
+p33336
+aF4.2
+aa(lp33337
+S'a player in purple, white and black is playing near the end of the field'
+p33338
+aS'a man is wearing a sports uniform and is running down the field'
+p33339
+aF3.6
+aa(lp33340
+S'two white dogs are quickly running together'
+p33341
+aS'two white puppies are playing near a pool'
+p33342
+aF3.8
+aa(lp33343
+S'a black dog is jumping from n hay ball to another hay ball'
+p33344
+aS'a black dog is leaping from a cylindrical hay bale'
+p33345
+aF4.0
+aa(lp33346
+S'the subject is being studied by a man with a camera'
+p33347
+aS'a man with a camera is studying the subject'
+p33348
+aF4.9
+aa(lp33349
+S'a woman is taking off a cloak, which is very large, and revealing an extravagant dress'
+p33350
+aS'a woman is taking off a cloak, which is very large, and revealing extravagant apparel'
+p33351
+aF4.3
+aa(lp33352
+S'a young man and a woman are riding bikes on the boardwalk near the ocean'
+p33353
+aS'an older man and a woman are riding bikes on the boardwalk near the ocean'
+p33354
+aF3.5
+aa(lp33355
+S'a person is strongly whisking eggs in a bowl'
+p33356
+aS'a woman is beating the man that is keeping two eggs in the bowl, using a wire whisk '
+p33357
+aF2.6
+aa(lp33358
+S'the woman is frying a breaded pork chop'
+p33359
+aS'a woman is cooking a pork chop which is breaded'
+p33360
+aF4.4
+aa(lp33361
+S'a woman is stroking a lemur'
+p33362
+aS'a lemur is being stroked by a woman'
+p33363
+aF5.0
+aa(lp33364
+S'a person is performing tricks on a motorcycle'
+p33365
+aS'the performer is tricking a person on a motorcycle'
+p33366
+aF2.6
+aa(lp33367
+S'some bells are ringing near a cook slicing peppers'
+p33368
+aS'the person is dicing up a pepper which is orange'
+p33369
+aF2.3
+aa(lp33370
+S'one man is eating some food'
+p33371
+aS'the man is eating'
+p33372
+aF4.55
+aa(lp33373
+S'a woman is pouring a mixture into a bowl and mixing it'
+p33374
+aS'a woman is taking a mixture out of a bowl'
+p33375
+aF3.9
+aa(lp33376
+S'the children of a family are playing and waiting'
+p33377
+aS'a person is chopping down a tree with an axe'
+p33378
+aF1.0
+aa(lp33379
+S'three men are looking absent mindedly into the distance'
+p33380
+aS'three men are looking into the distance'
+p33381
+aF4.5
+aa(lp33382
+S'a man is singing and playing a guitar'
+p33383
+aS'a man is performing with a guitar'
+p33384
+aF4.6
+aa(lp33385
+S'a cat is thrown at the ceiling by a person'
+p33386
+aS'a person is throwing a cat at the ceiling'
+p33387
+aF5.0
+aa(lp33388
+S'a boy is jumping off a platform and two other boys are standing and watching'
+p33389
+aS'a boy is jumping on a platform and two other boys are sitting absentmindedly'
+p33390
+aF4.0
+aa(lp33391
+S'the students are filling the classroom'
+p33392
+aS'a classroom is full of students'
+p33393
+aF4.3
+aa(lp33394
+S'an animated airplane is landing'
+p33395
+aS'an animated airplane is taking off'
+p33396
+aF3.9
+aa(lp33397
+S'the player in purple, white and black is playing near the end of the field'
+p33398
+aS'the black player is making the white player a play near the end of a purple field'
+p33399
+aF3.3
+aa(lp33400
+S'a couple is running towards the ocean'
+p33401
+aS'a snowboarding man is jumping through the air'
+p33402
+aF1.3
+aa(lp33403
+S'the squirrel is running in circles'
+p33404
+aS'an animal is running in circles'
+p33405
+aF4.3
+aa(lp33406
+S'there is no man playing a bamboo flute'
+p33407
+aS'the man is playing a flute'
+p33408
+aF4.2
+aa(lp33409
+S'the show for the small child is being set on an exciting swing at the park'
+p33410
+aS'the little girl is swinging and the woman is standing behind her'
+p33411
+aF3.3
+aa(lp33412
+S'ferrets are climbing up a shelf'
+p33413
+aS'ferrets are climbing down from a shelf'
+p33414
+aF3.0
+aa(lp33415
+S'the kitten is not playing with a toy'
+p33416
+aS'the kitten is playing with a toy'
+p33417
+aF2.4
+aa(lp33418
+S'a black man is walking next to a building in a big city'
+p33419
+aS'a woman is looking into the distance and people are walking between buildings behind'
+p33420
+aF1.7
+aa(lp33421
+S'two children are playing in the surf'
+p33422
+aS'a kid is splashing in the water'
+p33423
+aF3.7
+aa(lp33424
+S'a man is shooting guns'
+p33425
+aS'a man is shooting a weapon'
+p33426
+aF4.8
+aa(lp33427
+S'a group of scouts are hiking through the grass'
+p33428
+aS'people are walking'
+p33429
+aF3.6
+aa(lp33430
+S'a man is leading the race'
+p33431
+aS'a few men in a competition are running indoors'
+p33432
+aF2.1
+aa(lp33433
+S'two children are peering over a ledge, which is rusty'
+p33434
+aS'two children are peering over a rusty ledge'
+p33435
+aF4.9
+aa(lp33436
+S'there is no man sitting on the floor and playing a guitar'
+p33437
+aS'a man is sitting on the floor in a room and strumming a guitar'
+p33438
+aF4.3
+aa(lp33439
+S'a baby is playing a guitar'
+p33440
+aS'a guitar is being played by a baby'
+p33441
+aF4.9
+aa(lp33442
+S'tambourines are being played by a group of children'
+p33443
+aS'a group of children is playing tambourines'
+p33444
+aF4.9
+aa(lp33445
+S'the person is riding a motorbike on a sandy track'
+p33446
+aS'the person is riding a motorbike on a track on the sand'
+p33447
+aF4.9
+aa(lp33448
+S'a woman in blue has a yellow ball in the hand'
+p33449
+aS'the girl in blue is chasing the base runner with a number on the jersey'
+p33450
+aF2.3
+aa(lp33451
+S'a squirrel is running around in circles'
+p33452
+aS'the man is removing knives from a tree'
+p33453
+aF1.0
+aa(lp33454
+S'the man is performing a large jump'
+p33455
+aS'a large jump is being performed by a man'
+p33456
+aF4.9
+aa(lp33457
+S'a man is playing keyboards'
+p33458
+aS'a man is playing an instrument'
+p33459
+aF4.3
+aa(lp33460
+S'a black dog and a tan dog are sleeping'
+p33461
+aS'a black dog and a tan dog are fighting'
+p33462
+aF3.8
+aa(lp33463
+S'the children are playing in front of a door, which is very large'
+p33464
+aS'the children are playing in front of a large door'
+p33465
+aF4.9
+aa(lp33466
+S'there is no cat sliding upside down under a couch'
+p33467
+aS'a cat is sliding upside down under a couch'
+p33468
+aF4.6
+aa(lp33469
+S'a man is eating some food'
+p33470
+aS'the person is eating'
+p33471
+aF4.4
+aa(lp33472
+S'a large group of asian people is eating at a restaurant'
+p33473
+aS'a group of people from asia is eating at a restaurant'
+p33474
+aF4.8
+aa(lp33475
+S'a woman is wearing sunglasses of large size and is holding newspapers in both hands'
+p33476
+aS'a newspaper is featuring a woman with large sized hands holding sunglasses and wearing a coat'
+p33477
+aF2.6
+aa(lp33478
+S'a dog is running up a hill full of grass'
+p33479
+aS'a dog is running up a grassy hill'
+p33480
+aF4.9
+aa(lp33481
+S'a guy is leaping into the air in wood'
+p33482
+aS'a shirtless man is jumping over a log'
+p33483
+aF2.3
+aa(lp33484
+S'people are sitting against a wall'
+p33485
+aS'a woman is wearing a blue shirt with a white vest and a white cap and is talking and marching'
+p33486
+aF1.4
+aa(lp33487
+S'the girl is cheering the man in the blue and white uniform'
+p33488
+aS'a soccer player is being tackled by his opponent'
+p33489
+aF1.185
+aa(lp33490
+S'a man is playing a flute'
+p33491
+aS'a man is playing an instrument'
+p33492
+aF4.5
+aa(lp33493
+S'runners are competing in a race'
+p33494
+aS'runners are not taking part in the race'
+p33495
+aF3.9
+aa(lp33496
+S'there is no man singing and playing the guitar'
+p33497
+aS'a man is singing and playing the guitar'
+p33498
+aF2.6
+aa(lp33499
+S"the person isn't practicing the guitar"
+p33500
+aS'the guitar is being played by a lady'
+p33501
+aF2.7
+aa(lp33502
+S'two men are taking a break from a trip on a snowy road'
+p33503
+aS'two men are holding bikes and standing on the side of a road covered of snow'
+p33504
+aF3.8
+aa(lp33505
+S'a woman is being massaged by a man'
+p33506
+aS'a man is massaging a woman'
+p33507
+aF4.9
+aa(lp33508
+S'a dog is playing alone on a beach covered by snow'
+p33509
+aS'a dog is sleeping on a beach covered by snow'
+p33510
+aF2.9
+aa(lp33511
+S'a baby is not crawling happily'
+p33512
+aS'a baby is crawling happily'
+p33513
+aF4.4
+aa(lp33514
+S'a happy baby is laughing'
+p33515
+aS'a baby is laughing'
+p33516
+aF4.5
+aa(lp33517
+S'a band is performing on a stage'
+p33518
+aS'there is no band playing'
+p33519
+aF3.6
+aa(lp33520
+S'a white dog is standing on fallen leaves'
+p33521
+aS'one white dog is standing on the leaves on the ground'
+p33522
+aF4.5
+aa(lp33523
+S'a violin is being played by a man'
+p33524
+aS'a man is playing a violin'
+p33525
+aF5.0
+aa(lp33526
+S'the hungry woman is eating'
+p33527
+aS'the woman is eating'
+p33528
+aF4.3
+aa(lp33529
+S'a young girl is playing on the edge of a fountain and an older woman is watching her'
+p33530
+aS'a young girl is playing on the edge of a fountain and an older woman is not watching her'
+p33531
+aF2.8
+aa(lp33532
+S'a dog is standing on one leg and is waiting for a ball'
+p33533
+aS'a black and white dog is jumping for a ball'
+p33534
+aF3.1
+aa(lp33535
+S'two people wearing helmets are riding over the yellow and white flowers'
+p33536
+aS'two adults are not standing on a scooter in a field of yellow flowers'
+p33537
+aF2.6
+aa(lp33538
+S"a girl from asia, in front of a brick window, doesn't look surprised"
+p33539
+aS'a girl from asia, in front of a brick window, looks surprised'
+p33540
+aF3.2
+aa(lp33541
+S'some oil is being poured on the tomatoes by the man'
+p33542
+aS'the man is pouring oil on a few tomatoes'
+p33543
+aF4.9
+aa(lp33544
+S'the woman is eating'
+p33545
+aS'the woman is drinking'
+p33546
+aF3.4
+aa(lp33547
+S'a boy is whacking a man with a sword'
+p33548
+aS'a man is whacking a boy with a sword'
+p33549
+aF3.6
+aa(lp33550
+S'the picture of a man is being taken near a lake'
+p33551
+aS'a man is taking pictures of a lake'
+p33552
+aF3.4
+aa(lp33553
+S'a man with a jersey is dunking the ball at a basketball game'
+p33554
+aS'the player is missing the basket and a crowd is in background'
+p33555
+aF3.5
+aa(lp33556
+S'a man is frying a tortilla'
+p33557
+aS'a man is frying food'
+p33558
+aF4.5
+aa(lp33559
+S'there is no guinea pig eating a carrot'
+p33560
+aS'a guinea pig is eating a carrot'
+p33561
+aF4.4
+aa(lp33562
+S'the dog is snapping at some droplets of water'
+p33563
+aS'a snap is depicting some water falling in droplets on the dog'
+p33564
+aF2.3
+aa(lp33565
+S'the snowboarder is jumping off a snow covered hill'
+p33566
+aS'the person is not standing on white ice'
+p33567
+aF1.5
+aa(lp33568
+S'two little boys are not wearing tuxedos'
+p33569
+aS'two little boys are wearing tuxedos'
+p33570
+aF2.8
+aa(lp33571
+S'a woman is slicing a pepper which is green'
+p33572
+aS'the woman with a knife is slicing a pepper'
+p33573
+aF4.4
+aa(lp33574
+S'a person is putting meat into a skillet carelessly'
+p33575
+aS'a person is putting meat into a skillet'
+p33576
+aF4.3
+aa(lp33577
+S'the boy is riding a bike on the top of a fence made of metal'
+p33578
+aS'the boy is riding a bike on the top of a metal fence'
+p33579
+aF4.9
+aa(lp33580
+S'a skateboarder is jumping in the air'
+p33581
+aS'no skateboarder is jumping in the air'
+p33582
+aF4.2
+aa(lp33583
+S'a person is riding a jetski in the waves'
+p33584
+aS'a woman is riding a seadoo'
+p33585
+aF4.2
+aa(lp33586
+S'two boys, who look small, dressed in tuxedos are sitting on a red carpeted floor'
+p33587
+aS'two little boys are wearing tuxedos'
+p33588
+aF4.2
+aa(lp33589
+S'a man is drilling a hole in a piece of wood'
+p33590
+aS'a man is drilling a hole with a piece of wood'
+p33591
+aF3.8
+aa(lp33592
+S'the motocross rider is wearing blue and black pants'
+p33593
+aS'a biker with a blue jacket, black pants and a white helmet is parking on dirt and people are not watching'
+p33594
+aF3.5
+aa(lp33595
+S'the woman is chopping garlic'
+p33596
+aS'broccoli is being chopped by a woman'
+p33597
+aF3.0
+aa(lp33598
+S'a man is wearing a blue shirt and walking barefoot on a tennis court'
+p33599
+aS'a barefoot man in pajamas is looking toward the stars and is walking on the tennis court'
+p33600
+aF3.2
+aa(lp33601
+S'a person is cutting garlic into pieces with a knife'
+p33602
+aS'someone is putting ingredients into a wok'
+p33603
+aF1.7
+aa(lp33604
+S'an old man is sitting in a field'
+p33605
+aS'a person is wearing a hat and is sitting on the grass'
+p33606
+aF2.8
+aa(lp33607
+S'the woman is wearing a red jacket and holding a glass in front of the man in a white t-shirt'
+p33608
+aS'the woman is not wearing a red jacket and is not holding a glass in front of the man in a white t-shirt'
+p33609
+aF4.0
+aa(lp33610
+S'there is no girl brushing her hair'
+p33611
+aS'a girl is brushing her hair'
+p33612
+aF4.5
+aa(lp33613
+S'a woman is pouring ingredients into a bowl'
+p33614
+aS'the woman is seasoning the oil'
+p33615
+aF2.7
+aa(lp33616
+S'two large dogs, a light colored one and a dark one, are running through snowy terrain'
+p33617
+aS'two dogs are leaping through snowy grass and rocks'
+p33618
+aF4.3
+aa(lp33619
+S'an oriental man and two women are turning their backs to the camera'
+p33620
+aS'an oriental man and two women are facing a camera'
+p33621
+aF3.2
+aa(lp33622
+S'the man is slicing a potato'
+p33623
+aS'the man is wrapping a potato'
+p33624
+aF4.1
+aa(lp33625
+S'recruits are talking to an officer'
+p33626
+aS'the military officer is barking at the recruits'
+p33627
+aF3.8
+aa(lp33628
+S'a man is drawing on a digital dry erase board'
+p33629
+aS'a man is drawing on a board'
+p33630
+aF4.6
+aa(lp33631
+S'a young man is pushing a motocross bike up a dirt hill'
+p33632
+aS'a young man is pushing a motocross bike down a dirt hill'
+p33633
+aF3.4
+aa(lp33634
+S'the man is thinking'
+p33635
+aS'a man is dancing'
+p33636
+aF1.7
+aa(lp33637
+S'two people are sitting in lawn chairs and are reading books'
+p33638
+aS'two people in two chairs are reading'
+p33639
+aF4.5
+aa(lp33640
+S'three men and a woman are standing still for a picture'
+p33641
+aS'three men and a woman are posing for a picture'
+p33642
+aF4.55
+aa(lp33643
+S'a woman is dancing'
+p33644
+aS'the singer is hiring a person to fire the guitar player'
+p33645
+aF1.1
+aa(lp33646
+S'the plane, which is south african, is flying in a blue sky'
+p33647
+aS'an airplane is flying through the air'
+p33648
+aF4.5
+aa(lp33649
+S'the helmeted girl is perching on a bike'
+p33650
+aS'the girl with a helmet is perching on a bike'
+p33651
+aF4.9
+aa(lp33652
+S'a dog is standing on one leg and is waiting for a soccer ball'
+p33653
+aS'there is no black and white dog jumping for a ball'
+p33654
+aF3.1
+aa(lp33655
+S'a person is sitting in a field and is wearing a hat'
+p33656
+aS'a man is sitting in a field'
+p33657
+aF4.0
 aa.
