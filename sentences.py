@@ -73,10 +73,7 @@ def embed(stmx):
 
 # In[5]:
 
-def pfl(s):
-    for i in dtr['syn'][0]:
-        s.append(i)
-    return s
+
 
 def chsyn(s,trn):
     cnt=0
@@ -91,9 +88,6 @@ def chsyn(s,trn):
         mst=''
         if q not in d2:
             continue
-        if flg==1:
-            trn=pfl(trn)
-            flg=0
         
         if q in cachedStopWords or q.title() in cachedStopWords or q.lower() in cachedStopWords:
             #print q,"skipped"
