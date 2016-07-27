@@ -388,8 +388,7 @@ class lstm():
         x1,mas1,x2,mas2,y2=prepare_data(q)
         ls=[]
         ls2=[]
-        freq+=1
-        use_noise.set_value(1.)
+        use_noise.set_value(0.)
         for j in range(0,len(x1)):
             ls.append(embed(x1[j]))
             ls2.append(embed(x2[j]))
